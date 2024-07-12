@@ -1,0 +1,17 @@
+  html {
+      font-size: 30px;
+  }
+
+    .parent {
+         font-size: 20px; 
+    } 
+
+
+  .child-rem {
+      font-size: 2rem;
+      
+
+  }
+  .child-rem2{
+    font-size: 40px;
+  }
